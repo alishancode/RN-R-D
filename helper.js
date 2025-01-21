@@ -45,12 +45,6 @@ const moveDirectoryContents = (targetDir, destinationDir) => {
   }
 };
 
-// // Example Usage
-// const target = path.join(__dirname, 'byldd', 'folder1'); // Replace with your target folder
-// const destination = path.join(__dirname); // Move to root
-// moveDirectoryContents(target, destination);
-
-
 module.exports={
   moveDirectoryContents
 }
