@@ -14,7 +14,7 @@ node index.js <project-name>
 
 ---
 
-## Setup Steps
+## New Approach with Scripts
 
 1. **Create a New Expo Project**  
    Generate a fresh Expo project:  
